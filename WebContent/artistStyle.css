@@ -1,0 +1,26 @@
+#nameTitle{
+	margin-top:10%;
+	margin-left:20%;
+	font-size:30px;
+}
+#nameButtons{
+	margin-left:40%;
+}
+#hint{
+	margin-left:40%;
+	margin-top:10%;
+	font-size:30px;
+}
+#backButton{
+	margin-top:5%;
+	margin-left:40%;
+}
+#question{
+	margin-top:1%;
+	margin-left:40%;
+}
+#viewNumber{
+	margin-left:35%;
+	margin-top:5%;
+	font-size:30px;
+}
